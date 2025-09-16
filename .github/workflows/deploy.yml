@@ -3,30 +3,29 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - main # 或者你的主分支名称，比如 master
+      - main  # 确保这里是你的主分支名称，比如 main 或 master
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout your code
         uses: actions/checkout@v3
         with:
-          lfs: true
+          lfs: 'true' # 如果有大文件，这一行很重要
 
-      - name: Install Node.js
-        uses: actions/setup-node@v3
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v2
         with:
-          node-version: 18
-
-      - name: Install dependencies
-        run: npm i --frozen-lockfile
+          version: 8 # 指定pnpm的版本
+          run_install: true # 自动运行 pnpm install
 
       - name: Build Astro site
-        run: npm run build
+        run: pnpm run build # 使用 pnpm 来执行构建命令
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist # Astro 的默认构建目录
+          publish_dir: ./dist # Astro 的默认构建输出目录
