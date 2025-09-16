@@ -20,7 +20,7 @@ jobs:
           node-version: 18
 
       - name: Install dependencies
-        run: pnpm install
+        run: npm i --frozen-lockfile
 
       - name: Build Astro site
         run: pnpm run build
