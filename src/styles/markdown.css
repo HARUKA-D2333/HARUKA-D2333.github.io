@@ -18,7 +18,11 @@
             }
         }
     }
-
+.link {
+  /* 这里添加你想要的样式，例如 */
+  color: #007bff;
+  text-decoration: underline;
+}
     a:not(.no-styling) {
         @apply relative bg-none link font-medium text-[var(--primary)]
         underline decoration-[var(--link-underline)] decoration-1 decoration-dashed underline-offset-4;
