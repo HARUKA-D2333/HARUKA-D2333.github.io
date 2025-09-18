@@ -55,7 +55,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/demo-avatar.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "HARUKA-D2333",
-	bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+	bio: "现在就读于东京电机大学 理工学部 情报系统设计学系",
 	links: [
 		// {
 		// 	name: "Twitter",
