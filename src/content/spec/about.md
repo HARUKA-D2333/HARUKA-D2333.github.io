@@ -18,7 +18,11 @@ This is the BLog site of [HARUKA-D2333](https://haruka-d2333.github.io).
 
 头像是使用AI生成的可爱少女，~~你可以将她作为我的化身~~（本人🚹）
 
+# 本博客网站是基于Astro 的 Fuwari 制作的
 
+::github{repo = "saicaca/fuwari" }
+
+十分感谢！！！
 
 <!-- > ### Sources of images used in this site
 > - [Unsplash](https://unsplash.com/)
