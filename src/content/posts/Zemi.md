@@ -22,3 +22,5 @@ lang: ''
 
 2025.09.19 
 --- 
+
+<a href = "public/Files/23rd602ホウエイセイ＿ゼミ初回テーマ発表.pptx " download>第一回题目发表ppt</a>
