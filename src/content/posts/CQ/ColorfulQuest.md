@@ -17,10 +17,10 @@ Colorful Quest是 我在大三上学期参与制作的游戏
 
 
 ## DEMO下载链接
-<br><a href = "Files/ColorQuest_Demo_presentation_win .zip" download = "ColorfulQuestDEMO_Windows.zip">Colorful Quest Demo Windows</a>
+<br><a href = "/Files/ColorQuest_Demo_presentation_win .zip" download = "ColorfulQuestDEMO_Windows.zip">Colorful Quest Demo Windows</a>
 
 
-<br><a href = "Files/ColorQuest_Demo_presentation_mac.app.zip" download = "ColorfulQuestDEMO_Mac.zip">Colorful Quest Demo Mac</a>
+<br><a href = "/Files/ColorQuest_Demo_presentation_mac.app.zip" download = "ColorfulQuestDEMO_Mac.zip">Colorful Quest Demo Mac</a>
 
 ::github{repo="HARUKA-D2333/ColorfulQuest"}
 
