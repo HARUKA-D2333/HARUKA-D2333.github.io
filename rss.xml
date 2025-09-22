@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>HARUKA-D2333</title><description>Blog</description><link>https://github.com/HARUKA-D2333/</link><language>zh_CN</language><item><title>Zemi</title><link>https://github.com/posts/zemi/</link><guid isPermaLink="true">https://github.com/posts/zemi/</guid><description>大三下学期在研究室希望研究的Zemi课题</description><pubDate>Fri, 19 Sep 2025 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;:::note[进展报告]
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>HARUKA-D2333</title><description>Blog</description><link>https://github.com/HARUKA-D2333/</link><language>zh_CN</language><item><title>我的仓库</title><link>https://github.com/posts/private/iventory/</link><guid isPermaLink="true">https://github.com/posts/private/iventory/</guid><description>这是我的仓库，用于存放自己的一些东西，处于上锁状态</description><pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&amp;lt;a href = &quot;/public/Files/23rd602ホウエイセイ＿ゼミ初回テーマ発表.pptx&quot; download = test1.pptx&amp;gt; 例子 &amp;lt;/a&amp;gt;&lt;/p&gt;
+</content:encoded></item><item><title>Zemi</title><link>https://github.com/posts/zemi/</link><guid isPermaLink="true">https://github.com/posts/zemi/</guid><description>大三下学期在研究室希望研究的Zemi课题</description><pubDate>Fri, 19 Sep 2025 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;:::note[进展报告]
 :::&lt;/p&gt;
 &lt;h1&gt;第一周&lt;/h1&gt;
 &lt;p&gt;这周参加了Zemi的第一次，教授大致介绍了下zemi中要做的事情，以及我需要确定我的研究课题。&lt;/p&gt;
@@ -8,7 +9,10 @@
 &lt;p&gt;&amp;lt;a href = &quot;/Files/23rd602ホウエイセイ＿ゼミ初回テーマ発表.pptx&quot; download&amp;gt;第一回题目发表ppt&amp;lt;/a&amp;gt;&lt;/p&gt;
 </content:encoded></item><item><title>ColorfulQuest</title><link>https://github.com/posts/cq/colorfulquest/</link><guid isPermaLink="true">https://github.com/posts/cq/colorfulquest/</guid><description>游戏《Colorful Quest》</description><pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Colorful Quest是 我在大三上学期参与制作的游戏&lt;/p&gt;
 &lt;p&gt;本人在其中负责，编程以及地图设计，UI设计相关&lt;/p&gt;
-&lt;p&gt;其中由HIDEO TAKEUCHI负责绘图&lt;/p&gt;
+&lt;p&gt;其中由 &lt;code&gt;竹内一秀&lt;/code&gt; 负责绘图&lt;/p&gt;
+&lt;h2&gt;DEMO下载链接&lt;/h2&gt;
+&lt;p&gt;&amp;lt;br&amp;gt;&amp;lt;a href = &quot;/public/Files/ColorQuest_Demo_presentation_win .zip&quot; download = &quot;ColorfulQuestDEMO_Windows.zip&quot;&amp;gt;Colorful Quest Demo Windows&amp;lt;/a&amp;gt;&lt;/p&gt;
+&lt;p&gt;&amp;lt;br&amp;gt;&amp;lt;a href = &quot;/public/Files/ColorQuest_Demo_presentation_mac.app.zip&quot; download = &quot;ColorfulQuestDEMO_Mac.zip&quot;&amp;gt;Colorful Quest Demo Mac&amp;lt;/a&amp;gt;&lt;/p&gt;
 &lt;p&gt;::github{repo=&quot;HARUKA-D2333/ColorfulQuest&quot;}&lt;/p&gt;
 </content:encoded></item><item><title>HARUKA-D2333</title><link>https://github.com/posts/me/haruka-d2333/</link><guid isPermaLink="true">https://github.com/posts/me/haruka-d2333/</guid><description>About HARUKA-D2333</description><pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;为什么会叫HARUKA-D2333这个名字&lt;/h1&gt;
 &lt;p&gt;其实源自于网名 嘘の空遥　,&lt;s&gt;现在看来这个名字略微羞耻&lt;/s&gt;，然后为了让打游戏时的大伙认识，以及比较方便延申出了HARUKA-D2333&lt;/p&gt;
