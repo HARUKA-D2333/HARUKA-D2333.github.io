@@ -12,6 +12,7 @@
             }
         }
 
+          
         &:hover {
             .anchor {
                 @apply opacity-100 !important;
